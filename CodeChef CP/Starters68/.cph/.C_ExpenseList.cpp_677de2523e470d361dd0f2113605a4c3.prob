@@ -1,0 +1,1 @@
+{"name":"Local: C_ExpenseList","url":"e:\\downloads\\Coding\\C++\\CodeChef CP\\Starters68\\C_ExpenseList.cpp","tests":[{"id":1670424365884,"input":"4\n1 2\n1 3\n2 3\n3 4","output":"2\n4\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\downloads\\Coding\\C++\\CodeChef CP\\Starters68\\C_ExpenseList.cpp","group":"local","local":true}

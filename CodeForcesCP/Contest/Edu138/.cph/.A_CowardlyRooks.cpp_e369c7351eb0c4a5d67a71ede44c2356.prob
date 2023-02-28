@@ -1,0 +1,1 @@
+{"name":"Local: A_CowardlyRooks","url":"e:\\downloads\\Coding\\C++\\CodeForcesCP\\Edu138\\A_CowardlyRooks.cpp","tests":[{"id":1666278329338,"input":"2\n2 2\n1 2\n2 1\n3 1\n2 2","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\downloads\\Coding\\C++\\CodeForcesCP\\Edu138\\A_CowardlyRooks.cpp","group":"local","local":true}

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "typeinfo": "cpp",
+        "iostream": "cpp",
+        "cerrno": "cpp",
+        "ciso646": "cpp",
+        "climits": "cpp",
+        "clocale": "cpp"
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000
+}
